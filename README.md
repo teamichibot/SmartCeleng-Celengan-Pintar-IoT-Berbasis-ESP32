@@ -18,9 +18,8 @@ Proyek ini bertujuan untuk membuat celengan pintar menggunakan ESP32 yang dileng
 | 3  | Layar OLED 128x64 (I2C)   | 1      |
 | 4  | Push Button               | 1      |
 | 5  | Kapasitor 10uF 25V        | 1      |
-| 6  | Resistor 10kΩ             | 1      |
-| 7  | Kabel Jumper              | Beberapa |
-| 8  | Breadboard                | 1      |
+| 6  | Kabel Jumper              | Beberapa |
+| 7  | Breadboard                | 1      |
 
 ## Rangkaian
 | Komponen         | Pin ESP32       | Pin Komponen     | Keterangan                  |
