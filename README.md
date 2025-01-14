@@ -11,15 +11,18 @@ Proyek ini bertujuan untuk membuat celengan pintar menggunakan ESP32 yang dileng
 6. **Reset Saldo:** Menyediakan tombol reset untuk mengatur ulang saldo.
 
 ## Komponen yang Dibutuhkan
-| No | Komponen                  | Jumlah |
-|----|---------------------------|--------|
-| 1  | ESP32                     | 1      |
-| 2  | Sensor Warna (TCS3200)    | 1      |
-| 3  | Layar OLED 128x64 (I2C)   | 1      |
-| 4  | Push Button               | 1      |
-| 5  | Kapasitor 10uF 25V        | 1      |
-| 6  | Kabel Jumper              | Beberapa |
-| 7  | Breadboard                | 1      |
+| No | Komponen                  | Jumlah | Link Pembelian |
+|----|---------------------------|--------|----------------|
+| 1  | ESP32                     | 1      | https://www.tokopedia.com/ichibot/esp-32-development-board-wifi-bluetooth-2-in-1-dual-core-cpu-esp32 |
+| 2  | Sensor Warna (TCS3200)    | 1      | https://www.tokopedia.com/ichibot/sensor-warna-gy-31-tcs3200-module-upgrade-tcs230-rgb |
+| 3  | Layar OLED 128x64 (I2C)   | 1      | https://www.tokopedia.com/ichibot/lcd-oled-0-96-iic-128x64-i2c |
+| 4  | Push Button               | 1      | https://www.tokopedia.com/ichibot/push-button-mini-momentary-tact-switch-2pin |
+| 5  | Kapasitor 10uF 25V        | 1      | https://www.tokopedia.com/ichibot/10uf-25v-elco-capacitor-kapasitor-10-uf-25-volt-10uf-25v |
+| 6  | Kabel Jumper              | Beberapa | https://www.tokopedia.com/ichibot/ |
+| 7  | Breadboard                | 1      | https://www.tokopedia.com/ichibot/project-board-mb-102-830-point-bread-board |
+
+Link Pembelian Full Kit Belum dirakit (termasuk kotak triplex) :
+https://www.tokopedia.com/ichibot/smart-celeng-diy-celengan-pintar-iot-kit-latihan-pemrograman-dan-elektronika-esp32-belum-dirakit-1730733043374588981
 
 ## Rangkaian
 | Komponen         | Pin ESP32       | Pin Komponen     | Keterangan                  |
