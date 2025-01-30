@@ -24,6 +24,8 @@ Proyek ini bertujuan untuk membuat celengan pintar menggunakan ESP32 yang dileng
 Link Pembelian Full Kit Belum dirakit (termasuk kotak triplex) :
 https://www.tokopedia.com/ichibot/smart-celeng-diy-celengan-pintar-iot-kit-latihan-pemrograman-dan-elektronika-esp32-belum-dirakit-1730733043374588981
 
+https://s.shopee.co.id/5fZW9AVxKs
+
 ## Rangkaian
 | Komponen         | Pin ESP32       | Pin Komponen     | Keterangan                  |
 |------------------|-----------------|------------------|-----------------------------|
